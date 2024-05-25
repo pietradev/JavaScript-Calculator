@@ -3,7 +3,7 @@
 
  ### Description
 - Simple calculator developed with HTML, CSS, and JavaScript. Performs basic mathematical operations such as addition, subtraction, multiplication, and division. Ideal project for learning web development fundamentals and practicing skills in HTML, CSS, and JavaScript
-- Emmet was used to simplify the building process of the project - https://docs.emmet.io/abbreviations/syntax/
+- Emmet was used to simplify the project's building process - https://docs.emmet.io/abbreviations/syntax/
 
  ### How to access it?
  - Simply click here: https://pietradev.github.io/JavaScript-Calculator/
